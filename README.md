@@ -7,7 +7,7 @@
 - :trophy: Participé en la **NASASPACE** con un sitio web sobre los eclipses lunares.
 - :technologist: **Áreas** `Frontend Development` **&** `Backend Development`.
 - :nerd_face: Me apasiona la **ciberseguridad** y el desarrollo de software.
-- :email: Puedes contactarme en [![Send me Email] byron.manchegogarate@gmail.com
+- :email: Puedes contactarme en byron.manchegogarate@gmail.com
 
 <br>
 
